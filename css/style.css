@@ -1,0 +1,205 @@
+.title {
+
+    margin: auto;
+    background-color: white;
+    height: 100px;
+}
+.title .row .left img{
+    
+    width: 13%;
+    margin-left: 0%;
+    margin-top: 3%;
+}
+
+.title .row .left .css1 {
+    position: absolute;
+    font-size: 186%;
+    margin-top: 6%;
+    left: 18%;
+    width: 21%;
+}
+.title .row .left .css2 {
+    position: absolute;
+    font-size: 186%;
+    left: 34%;
+    margin-top: 6%;
+    opacity: 0.5;
+}
+.title .row .right .css1 {
+    position: absolute;
+    font-size: 186%;
+    margin-top: 6%;
+    width: 26%;
+    right: 34%;
+}
+.title .row .right .css2 {
+    position: absolute;
+    font-size: 186%;
+    margin-top: 6%;
+    opacity: 0.5;
+    right: 0%;
+}
+
+.content h1{
+    font-size: 35px;
+    font-weight: 600;
+    text-align: center;
+}
+.content img{
+    margin-left: auto;
+    display: block;
+    margin-right: auto;
+    width: 95%;
+}
+.choice .border .btn{
+    position: relative;
+    margin-left: 50%;
+    width: 57%;
+    margin-bottom: 14%;
+    margin-top: 5%;
+    background: #94DAFE;
+    border-radius: 5.0rem;
+    border-bottom: 4px outset #93a8be42;
+}
+.choice .border .btn h2{
+    margin-top: 1%;
+    font-weight: 600;
+    font-size: 180%;
+    margin-bottom: 5%;
+}
+.choice .border .btn p{
+    font-size: 107%;
+    position: absolute;
+    margin-top: -4%;
+    margin-left: 8%;
+}
+ .choice .other-choice p{
+    font-size: 170%;
+    color: #49b9f3;
+    width: 80%;
+    position: absolute;
+    right: 8%;
+    margin-top: 13%;
+} 
+.choice .other-choice img{
+    width: 29%;
+    position: absolute;
+    right: -3%;
+    margin-top: 15%;
+}
+.tool h3{
+    font-weight: 600;
+    margin-left: 24%;
+    margin-top: -15%;
+}
+.tool p{
+    width: 70%;
+    margin-left: 24%;
+    margin-top: -2%;
+}
+.tool .row .central h3{
+    margin-top: -17%
+}
+.tool .row .right h3{
+    margin-top: -11%
+}
+.tool .row-1 {
+    margin-top: 7%;
+}
+.tool .row-1 .left h3{
+    margin-top: -20%;
+    margin-left: 20%;
+}
+.tool .row-1 .left p{
+    margin-left: 20%;
+}
+.tool .row-1 .central h3{
+    margin-top: -12%;
+}
+
+.quotations h4{
+    font-style: italic;
+    font-size: 155%;
+    color: #4fbdf5;
+    margin-top: 6%;
+}
+.quotations .border p{
+    width: 100%;
+    padding: 2%;
+    position: relative;
+    text-align: center;
+    border-radius: 6px;
+    background-color: #f4f4f5;
+    border-left: 2px inset #ffffff;
+    border-top: 2px inset #ffffff;
+    opacity: 0.7;
+}
+.quotations .border p:before{
+    content: "";
+    position: absolute;
+    bottom: -22%;
+    right: 5%;
+    border-top: 28px solid #f4f4f5;
+    border-right: 25px solid transparent;
+    border-left: 0px solid transparent;
+}
+.quotations h6{
+    opacity: 0.7;
+    right: 18%;
+    font-size: 105%;
+    position: absolute;
+}
+.reminder .left img{
+    width: 37%;
+    margin-left: 9%;
+    margin-top: 8%;
+}
+.reminder .left h4{
+    font-size: 161%;
+    color: #4fbdf5;
+    margin-top: -9%;
+    margin-left: 48%;
+}
+.reminder .right .btn{
+    position: relative;
+    margin-left: -5%;
+    width: 60%;
+    height: 10%;
+    margin-bottom: 10%;
+    margin-top: 10%;
+    background: #94DAFE;
+    border-radius: 6rem;
+    border-bottom: 4px outset #93a8be42;
+    
+}
+.reminder .right h2{
+    margin-top: 1%;
+    font-weight: 700;
+    margin-bottom: 0%;
+    font-size: 188%;
+}
+.reminder .right p{
+    margin-bottom: 0%;
+    font-size: 120%;
+}
+.FAQS h3{
+    margin-top: 11%;
+    font-weight: 600;
+}
+.FAQS .central1 img{
+    margin-top: 25%;
+    width: 100%;
+    margin-bottom: 18%;
+}
+.FAQS p{
+    font-size: 110%;
+}
+.copyright .span2{
+    right: -42%;
+    margin-right: 60%;
+    position: absolute;
+    font-size: 120%
+}
+.copyright .span1{
+    font-size: 120%
+}
