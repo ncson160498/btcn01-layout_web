@@ -1,41 +1,33 @@
-.title {
 
-    margin: auto;
-    background-color: white;
-    height: 100px;
-}
+
 .title .row .left img{
     
     width: 13%;
-    margin-left: 0%;
     margin-top: 3%;
 }
-
+.title .left .left-text{
+    margin-left: 15%;
+    margin-top: -10%;
+}
 .title .row .left .css1 {
-    position: absolute;
     font-size: 186%;
-    margin-top: 6%;
-    margin-left: 3%;
 }
 .title .row .left .css2 {
-    position: absolute;
     font-size: 186%;
-    margin-left: 19%;
-    margin-top: 6%;
     opacity: 0.5;
+    margin-left: -1%;
+}
+.title .right{
+    margin-top: -2.7%;
+    margin-left: 55%;
 }
 .title .row .right .css1 {
-    position: absolute;
     font-size: 186%;
-    margin-top: 6%;
     margin-left: 38%;
 }
 .title .row .right .css2 {
-    position: absolute;
     font-size: 186%;
-    margin-top: 6%;
     opacity: 0.5;
-    right: 0%;
 }
 
 .content h1{
