@@ -1,8 +1,5 @@
 
-@media (max-width: 960px)
-{
-    
-}
+
 .title .row .left img{
     
     width: 13%;
@@ -44,7 +41,7 @@
     margin-right: auto;
     width: 95%;
 }
-.choice .border .btn{
+.choice .btn{
     position: relative;
     margin-left: 50%;
     margin-bottom: 5%;
@@ -52,14 +49,21 @@
     background: #94DAFE;
     border-radius: 6rem;
     border-bottom: 4px outset #93a8be42;
+    
 }
-.choice .border .btn h2{
+@media (min-width: 450px) and (max-width: 960px)
+{
+   .choice .btn{
+        margin-left: 0%;
+    }
+}
+.choice .btn h2{
     margin-top: 0%;
     font-weight: 600;
     font-size: 180%;
     margin-bottom: 0%;
 }
-.choice .border .btn p{
+.choice .btn p{
     font-size: 120%;
     margin-bottom: 0%;
 }
